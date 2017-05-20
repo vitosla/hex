@@ -5,7 +5,7 @@ import android.app.Application;
 import by.lvl.hexmap.api.Api;
 import by.lvl.hexmap.api.repo.RepositoryFactory;
 
-// master1
+// branch1
 public class HexmapApp extends Application {
 
     @Override
